@@ -21,7 +21,7 @@ Acesta este un blog de tip "how-to" creat pentru a împărtăși ghiduri și tut
 
 1. Clonați acest depozit:
     ```bash
-    git clone https://github.com/utilizator/proiect-react.git
+    git clone https://github.com/stefanderson/proiect-react.git
     cd proiect-react
     ```
 
