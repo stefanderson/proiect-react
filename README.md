@@ -30,9 +30,7 @@ Acesta este un blog de tip "how-to" creat pentru a împărtăși ghiduri și tut
     npm install
     ```
 
-3. Configurați variabilele de mediu în fișierul `.env`.
-
-4. Rulați serverul de dezvoltare:
+3. Rulați serverul de dezvoltare:
     ```bash
     npm run dev
     ```
@@ -49,3 +47,6 @@ Blogul va fi disponibil la `http://localhost:3000`.
 ## Autor
 
 Creat de [Andrei Stefan](https://github.com/stefanderson).
+
+git clone https://github.com/utilizator/proiect-react.git proiect-react-copie
+cd proiect-react
